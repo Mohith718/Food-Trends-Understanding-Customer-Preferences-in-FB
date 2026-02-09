@@ -229,32 +229,19 @@ _Dashboard screenshots will be added upon completion of each milestone_
 
 ---
 
-## 👥 Contributing
-
-This is an academic/portfolio project. Suggestions and feedback are welcome!
-
----
-
-## 📄 License
-
-This project is created for educational and portfolio purposes.
-
----
-
 ## 📧 Contact
 
 **Your Name**  
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- LinkedIn: (https://www.linkedin.com/in/mohith-srinivas/)
+- Email: smohith200@gmail.com
 
 ---
 
 ## 🙏 Acknowledgments
 
-- Dataset sources: [List your data sources]
+- Dataset sources: [Facebook, Food Survey]
 - Inspiration: Customer-centric innovation in F&B industry
-- Tools: Microsoft Power BI, Python, NLTK, TextBlob
+- Tools: Microsoft Power BI, Python, NLP
 
 ---
 
